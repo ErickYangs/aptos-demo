@@ -219,9 +219,9 @@ console.log(transaction)
 
 ##### 交易示例
 
-![Connect Wallet](/Users/slipperyghost/Desktop/Test/aptos-vue/img/connect_wallet.jpg)
+![Connect Wallet](./img/connect_wallet.jpg)
 
-![Tx](/Users/slipperyghost/Desktop/Test/aptos-vue/img/tx.jpg)
+![Tx](./img/tx.jpg)
 
 ### 问题
 

@@ -1,6 +1,6 @@
 <template>
   <div class="fn-list">
-    Petra Wallet
+    Martian Wallet
     <ul class="aptos-list">
       <li>
         <div>
@@ -28,7 +28,7 @@
 </template>
 
 <script setup>
-import useAptos from "../core/aptos";
+import useAptos from "../core/martian";
 const {
   getAptosWallet,
   handlerConnect,

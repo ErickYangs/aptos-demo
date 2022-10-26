@@ -217,8 +217,12 @@ console.log(transaction)
 
 
 
+##### 交易示例
+
+![Connect Wallet](/Users/slipperyghost/Desktop/Test/aptos-vue/img/connect_wallet.jpg)
+
+![Tx](/Users/slipperyghost/Desktop/Test/aptos-vue/img/tx.jpg)
+
 ### 问题
 
-1. approve 行为如何构造参数
-2. allowance 结果如何查询
-3. 交易具体参数如何构造
+1. 交易具体参数如何构造

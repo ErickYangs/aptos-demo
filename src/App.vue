@@ -1,10 +1,11 @@
 <template>
-  <div><AptosFn /><MartianWallet /></div>
+  <div><AptosFn /><MartianWallet /><EthSign /></div>
 </template>
 
 <script setup>
 import AptosFn from "./components/AptosFn.vue";
 import MartianWallet from "./components/MartianWallet.vue";
+import EthSign from "./components/EthSign.vue";
 
 </script>
 
